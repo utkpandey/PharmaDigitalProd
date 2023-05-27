@@ -6,7 +6,7 @@
   <title>Redirecting...</title>
   <script>
     // Get the variable name from the URL
-    const selectedProduct = window.location.pathname.replace(/^\/PharmaDigitalProd\//, "");
+    const selectedProduct =  decodeURIComponent(window.location.pathname.replace(/^\/PharmaDigitalProd\//, ""));
 
     // Log the variable name
     console.log("Variable name:", selectedProduct);
