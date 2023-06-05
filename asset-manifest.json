@@ -1,18 +1,18 @@
 {
   "files": {
     "main.css": "/PharmaDigitalProd/static/css/main.a85d1049.css",
-    "main.js": "/PharmaDigitalProd/static/js/main.240a99f2.js",
+    "main.js": "/PharmaDigitalProd/static/js/main.15bca21a.js",
     "static/js/787.acf4afa4.chunk.js": "/PharmaDigitalProd/static/js/787.acf4afa4.chunk.js",
     "static/media/close.png": "/PharmaDigitalProd/static/media/close.5c1764f79cb47653dd27.png",
     "static/media/deloitte.svg": "/PharmaDigitalProd/static/media/deloitte.d83ae52d94ffc33006738165b200f623.svg",
     "static/media/add_button.svg": "/PharmaDigitalProd/static/media/add_button.26cd66242062bcdb8688cee451d4a574.svg",
     "index.html": "/PharmaDigitalProd/index.html",
     "main.a85d1049.css.map": "/PharmaDigitalProd/static/css/main.a85d1049.css.map",
-    "main.240a99f2.js.map": "/PharmaDigitalProd/static/js/main.240a99f2.js.map",
+    "main.15bca21a.js.map": "/PharmaDigitalProd/static/js/main.15bca21a.js.map",
     "787.acf4afa4.chunk.js.map": "/PharmaDigitalProd/static/js/787.acf4afa4.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.a85d1049.css",
-    "static/js/main.240a99f2.js"
+    "static/js/main.15bca21a.js"
   ]
 }
